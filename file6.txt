@@ -1,3 +1,4 @@
 new file added
 new line has been added
 hi welcome
+modified file6.txt
