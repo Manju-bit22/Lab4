@@ -2,4 +2,5 @@ craeted new file
 new modification made
 hi
 welcome to git lab
+new line added on 6th nov
 
